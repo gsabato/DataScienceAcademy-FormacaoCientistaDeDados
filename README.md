@@ -9,11 +9,11 @@ Abaixo encontra-se a lista de projetos finalizados, separados por curso:
 ### Big Data Analytics com R e Microsoft Azure Machine Learning
 * Projeto 1 - Análise de Sentimentos em Redes Sociais 
 * Projeto 2 - Prevendo a Ocorrência de Câncer
-* Projeto 3 - Prevendo Despesas Hospitalares
-* Projeto 4 - Análise de Risco de Crédito
+* [Projeto 3 - Prevendo Despesas Hospitalares](https://github.com/gsabato/DataScienceAcademy-FormacaoCientistaDeDados/tree/master/projeto_03-PrevendoDespesasHospitalares)
+* [Projeto 4 - Análise de Risco de Crédito](https://github.com/gsabato/DataScienceAcademy-FormacaoCientistaDeDados/tree/master/projeto_04-AnaliseDeRiscoDeCredito)
 * Projeto 5 - Mapeando a Ocorrência do Vírus Zika em um Gráfico Interativo
 
 ### Big Data Real-Time Analytics com Python e Spark
-* Projeto 6 - Criando um Sistema de Reconhecimento Facial
+* [Projeto 6 - Criando um Sistema de Reconhecimento Facial](https://github.com/gsabato/DataScienceAcademy-FormacaoCientistaDeDados/tree/master/projeto_06-SistemaDeReconhecimentoFacial)
 * Projeto 7 - Análise de Dados do Twitter em Tempo Real
 * Projeto 8 - Sistema de Recomendação

@@ -4,10 +4,6 @@ getwd()
 
 # Sources
 source("lib/Tools.R")
-#install.packages("ROCR")
-library(ROCR)
-#install.packages("caret")
-library(caret)
 
 # Coleta de dados 
 dataSource <- read.csv("data/credit_dataset.csv", header = TRUE, sep = ",")
@@ -56,7 +52,6 @@ str(test.class.var)
 
 
 # Criação do modelo
-
 ## Treinando o modelo
 ?glm
 model.v1 = glm(formula = "credit.rating ~ .", data = train.data, family = "binomial")
@@ -68,6 +63,7 @@ model.v1.predictions <- round(model.v1.predictions)
 
 ## Avaliação do modelo
 confusionMatrix(table(data = model.v1.predictions, reference = test.class.var), positive = '1')
+
 
 # Otimização
 ## Revisando as variáveis preditoras
