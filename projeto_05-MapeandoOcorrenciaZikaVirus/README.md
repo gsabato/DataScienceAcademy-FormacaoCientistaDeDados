@@ -1,4 +1,4 @@
-* Projeto 5 - Mapeando a Ocorrência do Vírus Zika em um Gráfico Interativo
+# Projeto 5 - Mapeando a Ocorrência do Vírus Zika em um Gráfico Interativo
 
 Solução do Projeto 5 do Curso Big Data Analytics com R e Microsoft Azure Machine Learning, primeiro curso da  [Formação Cientista de Dados](https://www.datascienceacademy.com.br/pages/formacao-cientista-de-dados) da Data Science Academy.
 

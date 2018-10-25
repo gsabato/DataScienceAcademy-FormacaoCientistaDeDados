@@ -16,4 +16,4 @@ Abaixo encontra-se a lista de projetos finalizados, separados por curso:
 ### Big Data Real-Time Analytics com Python e Spark
 * [Projeto 6 - Criando um Sistema de Reconhecimento Facial](https://github.com/gsabato/DataScienceAcademy-FormacaoCientistaDeDados/tree/master/projeto_06-SistemaDeReconhecimentoFacial)
 * Projeto 7 - Análise de Dados do Twitter em Tempo Real
-* Projeto 8 - Sistema de Recomendação
+* [Projeto 8 - Sistema de Recomendação](https://github.com/gsabato/DataScienceAcademy-FormacaoCientistaDeDados/tree/master/projeto_08-SistemaDeRecomendacao)
